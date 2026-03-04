@@ -33,7 +33,7 @@ Welcome to my GitHub profile! 🚀 I'm a backend developer passionate about craf
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeAssassins23&show_icons=true&theme=tokyonight" alt="Victor's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victorBravo123&show_icons=true&theme=tokyonight" alt="Victor's GitHub stats" />
 </p>
 
 ---
